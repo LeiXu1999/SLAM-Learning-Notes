@@ -7,3 +7,4 @@
 ## 2022/5/12
 1. 初入Github，学习[markdown](https://github.com/LeiXu1999/XiaoXu-/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/Markdown.md)。
 2. ALOAM用kitti数据集计算pose，然后打印出时间戳转成tum用evo工具评价。
+3. 学习如何[管理github的仓库](https://www.bilibili.com/video/BV1Vh41187ik?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)。
