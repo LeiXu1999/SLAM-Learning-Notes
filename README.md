@@ -1,2 +1,2 @@
-# XiaoXu-
-用来记录自己的SLAM学习过程
+# XiaoXu-的学习笔记
+用来记录SLAM学习过程
