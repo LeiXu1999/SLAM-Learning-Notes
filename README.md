@@ -6,3 +6,4 @@
 2. 柑橘采摘机器人，主要负责Qt可视化界面的编写。
 ## 2022/5/12
 1.初入Github，学习[markdown](https://github.com/LeiXu1999/XiaoXu-/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/Markdown.md)。
+2.ALOAM用kitti数据集计算pose，然后打印出时间戳转成tum用evo工具评价。
