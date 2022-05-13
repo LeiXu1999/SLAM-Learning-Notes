@@ -9,4 +9,4 @@
 2. ALOAM用kitti数据集计算pose，然后打印出时间戳转成tum用evo工具评价。
 3. 学习如何[管理github的仓库](https://www.bilibili.com/video/BV1Vh41187ik?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)，[笔记](https://github.com/LeiXu1999/SLAM-Learning-Notes/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/git%E7%AE%A1%E7%90%86github%E7%AE%80%E4%BB%8B.md)。
 ## 2022/5/13
-4.整理ALOAM的kitti转tum的package并[上传](https://github.com/LeiXu1999/A-LOAM-for-kitti-dataset-to-tum.git)。
+4. 整理ALOAM的kitti转tum的package并[上传github](https://github.com/LeiXu1999/A-LOAM-for-kitti-dataset-to-tum.git)。
