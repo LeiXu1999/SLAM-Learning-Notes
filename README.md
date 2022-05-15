@@ -12,3 +12,7 @@
 1. 整理ALOAM的kitti转tum的package并[上传github](https://github.com/LeiXu1999/A-LOAM-for-kitti-dataset-to-tum.git)。
 ## 2022/5/14
 1. ORBSLAM2源码解析预备知识
+## 2022/5/15
+1. 梳理一下后续工作
+2. 上午SLAM开源算法+深度学习、下午毕业论文+小论文、晚上 LeetCode刷题+回顾
+3. 明天开始按部就班
