@@ -21,3 +21,7 @@
 2. 测试篮球场的LOAM[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM_2022_5_16%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95)，漂移很严重。
 ## 2022/5/17
 1. bag of words 词袋模型 
+2. 线特征的代码
+## 2022/5/18
+1. 录bag测线特征提取
+2. 多机器人路径规划的论文
