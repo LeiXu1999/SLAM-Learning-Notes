@@ -18,7 +18,7 @@
 3. 明天开始按部就班
 ## 2022/5/16
 1. 最近邻问题（二叉树、kd输、八叉树）
-2. 测试篮球场的LOAM[记录]([https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM_2022_5_16%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_16%E5%85%AB%E5%85%AC%E5%AF%93%E5%92%8C%E7%AF%AE%E7%90%83%E5%9C%BA))，漂移很严重。
+2. 测试篮球场的LOAM[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_16%E5%85%AB%E5%85%AC%E5%AF%93%E5%92%8C%E7%AF%AE%E7%90%83%E5%9C%BA)，漂移很严重。
 ## 2022/5/17
 1. bag of words 词袋模型 
 2. 线特征的代码
@@ -27,5 +27,5 @@
 2. 多机器人路径规划的论文
 ## 2022/5/19
 1. Fisher information
-2. ALOAM测试校园后山[记录]([https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM_2022_5_16%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_18%E5%90%8E%E5%B1%B1/%E5%90%8E%E5%B1%B1))，没有回环在稠密的地方不怎么漂太强了。
+2. ALOAM测试校园后山[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_18%E5%90%8E%E5%B1%B1/%E5%90%8E%E5%B1%B1)，没有回环在稠密的地方不怎么漂太强了。
 
