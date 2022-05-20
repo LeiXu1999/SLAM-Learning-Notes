@@ -28,4 +28,6 @@
 ## 2022/5/19
 1. Fisher information
 2. ALOAM测试校园后山[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_18%E5%90%8E%E5%B1%B1/%E5%90%8E%E5%B1%B1)，没有回环在稠密的地方不怎么漂太强了。
-
+## 2022/5/20
+1. 找了一个Fisher information 的包测试了一下 但是有点复杂 待看。
+2. 整理一下这周学的东西。
