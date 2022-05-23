@@ -12,10 +12,6 @@
 1. 整理ALOAM的kitti转tum的package并[上传github](https://github.com/LeiXu1999/A-LOAM-for-kitti-dataset-to-tum.git)。
 ## 2022/5/14
 1. ORBSLAM2源码解析预备知识
-## 2022/5/15
-1. 梳理一下后续工作
-2. 没有事的情况下，上午SLAM基础、下午毕业论文+小论文、晚上 LeetCode刷题+回顾
-3. 明天开始按部就班
 ## 2022/5/16
 1. 上午：最近邻问题（二叉树、kd输、八叉树）
 2. 下午：测试篮球场的LOAM[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_16%E5%85%AB%E5%85%AC%E5%AF%93%E5%92%8C%E7%AF%AE%E7%90%83%E5%9C%BA)，漂移很严重。
@@ -38,4 +34,4 @@
 ## 2022/5/23
 1. 上午：ORB提取与匹配
 2. 下午：线特征代码
-3. LeetCode 狂学！
+3. 晚上: 第一章第二章
