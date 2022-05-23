@@ -14,25 +14,27 @@
 1. ORBSLAM2源码解析预备知识
 ## 2022/5/15
 1. 梳理一下后续工作
-2. 上午SLAM开源算法+深度学习、下午毕业论文+小论文、晚上 LeetCode刷题+回顾
+2. 没有事的情况下，上午SLAM基础、下午毕业论文+小论文、晚上 LeetCode刷题+回顾
 3. 明天开始按部就班
 ## 2022/5/16
-1. 最近邻问题（二叉树、kd输、八叉树）
-2. 测试篮球场的LOAM[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_16%E5%85%AB%E5%85%AC%E5%AF%93%E5%92%8C%E7%AF%AE%E7%90%83%E5%9C%BA)，漂移很严重。
+1. 上午：最近邻问题（二叉树、kd输、八叉树）
+2. 下午：测试篮球场的LOAM[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_16%E5%85%AB%E5%85%AC%E5%AF%93%E5%92%8C%E7%AF%AE%E7%90%83%E5%9C%BA)，漂移很严重。
 ## 2022/5/17
-1. bag of words 词袋模型 
-2. 线特征的代码
+1. 上午：bag of words 词袋模型 
+2. 下午：线特征的代码
 ## 2022/5/18
-1. 录bag测线特征提取
-2. 多机器人路径规划的论文
+1. 上午：录bag测线特征提取
+2. 下午：多机器人路径规划的论文
 ## 2022/5/19
-1. Fisher information
-2. ALOAM测试校园后山[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_18%E5%90%8E%E5%B1%B1/%E5%90%8E%E5%B1%B1)，没有回环在稠密的地方不怎么漂太强了。
+1. 上午：Fisher information
+2. 下午：ALOAM测试校园后山[记录](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ALOAM%20%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/2022_05_18%E5%90%8E%E5%B1%B1/%E5%90%8E%E5%B1%B1)，没有回环在稠密的地方不怎么漂太强了。
 ## 2022/5/20
-1. 找了一个Fisher information 的包测试了一下 但是有点复杂 待看。
-2. 整理一下这周学的东西。
+1. 上午：找了一个Fisher information 的包测试了一下 但是有点复杂 待看。
+2. 下午：整理一下这周学的东西。
 ## 2022/5/21
 ## 2022/5/22
 1. 考虑开题的事
 ## 2022/5/23
-1. 从零开始搭建一个VIO（目标一个月）
+1. 上午：ORB提取与匹配
+2. 下午：线特征代码
+3. LeetCode 狂学！
