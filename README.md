@@ -6,7 +6,7 @@
 1. 初入Github，Git管理、Markdown、
 2. [ALOAMtokitti](https://github.com/LeiXu1999/A-LOAM-for-kitti-dataset-to-tum.git)、ORB预备知识（[ICP、PnP等求解](https://github.com/LeiXu1999/SLAM-Learning-Notes/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ORB%E7%AC%94%E8%AE%B0/ORBSLAM2%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86%E4%B9%8B%E8%BF%90%E5%8A%A8%E5%92%8C%E8%A7%82%E6%B5%8B%E7%9A%84%E6%B1%82%E8%A7%A3(ICP%20PnP%20%E4%B8%89%E8%A7%92%E5%8C%96%20F%20H).md)、[特征提取和匹配](https://github.com/LeiXu1999/SLAM-Learning-Notes/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ORB%E7%AC%94%E8%AE%B0/ORBSLAM2%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86%E4%B9%8B%E8%AF%8D%E8%A2%8B%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E5%92%8C%E5%8C%B9%E9%85%8D.md)）
 3. 概率论（MLE FisherInformation）、线特征提取LSD和追踪的想法
-4. 实验：ALOAM在后山、八公寓下、篮球场是实验
+4. 实验：ALOAM在后山、八公寓下、篮球场
 5. 硬件：相机：ZED_SDK/雷达:速腾Helios16P_SDK/GPS+IMU:INS570_SDK
 6. LeetCode（704/27/209/707）
 
