@@ -1,6 +1,15 @@
 # XiaoXu-的学习笔记
 ## 自我介绍
 我是SLAM练习时长一年半的练习生小徐不会唱、跳、rap和打篮球，这个project用来记录自己SLAM的学习过程。
+# 每月总结
+## 2022/5/12~31
+1. 初入Github，Git管理、Markdown、
+2. ALOAMtokitti、ORB预备知识（ICP、PnP等求解、特征提取和匹配）
+3. 概率论（MLE FisherInformation）、线特征提取LSD和追踪的想法
+4. 相机：ZED_SDK/雷达:速腾Helios_SDK/GPS+IMU:INS570_SDK
+5. LeetCode（704/27/209/707）
+LeetCode刷的慢了，下个月补一点数据结构的知识
+# 每日总结
 ## 2022/5/12之前的工作
 1. 本科毕业设计，基于主动视觉的移动机器人路径规划与导航[实物](https://www.bilibili.com/video/BV1UA411g7Lu?spm_id_from=333.999.0.0),[仿真](https://www.bilibili.com/video/BV1gB4y1u7my?spm_id_from=333.999.0.0)
 2. 柑橘采摘机器人，主要负责Qt[可视化界面](https://github.com/LeiXu1999/SLAM-Learning-Notes/tree/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/%E6%9F%91%E6%A9%98%E9%87%87%E6%91%98%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2)和各模块的交互。
