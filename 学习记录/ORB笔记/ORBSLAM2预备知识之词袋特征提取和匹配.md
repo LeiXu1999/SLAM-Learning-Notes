@@ -596,7 +596,7 @@ void ORBextractor::operator()( InputArray _image, InputArray _mask, vector<KeyPo
 
 与投影的区别就是，语法树不需要先验的Rt（因为不需要投影），但是速度慢一些。属于没有别的办法的情况下采用比如说 回环检测，
 
-1. **重定位**
+1. **重定位/追踪重投影失效的时候**
 
 **当前帧与关键帧的MapPoint更新**
 
