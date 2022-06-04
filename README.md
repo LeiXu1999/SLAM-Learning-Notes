@@ -58,3 +58,11 @@ LeetCode刷的慢了，下个月补一点数据结构的知识
 1. 上午：[ORB源码特征提取和匹配](https://github.com/LeiXu1999/SLAM-Learning-Notes/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/ORB%E7%AC%94%E8%AE%B0/ORBSLAM2%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86%E4%B9%8B%E8%AF%8D%E8%A2%8B%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E5%92%8C%E5%8C%B9%E9%85%8D.md)
 2. 下午：测试新买的激光雷达Helios-16P，产品比较新SDK好像还不是很完善 点云出来不对劲 难受!
 3. LeetCode：707.设计链表
+# 2022/6/1~2
+1. 上午准备开题
+2. 下午跟师姐交接工作
+3. 数据结构与算法
+# 2022/6/3~4
+1. 上午准备开一
+2. 接过实验室的设备，做实地试验，发现存在很多问题。
+3. 数据结构与算法基础 LeetCode
